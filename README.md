@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for ManageEngine Endpoint Central.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit ManageEngine Endpoint Central on SOFTGIT](https://softgit.pro/p/manageengine-endpoint-central)** — the full listing.
+- 📄 **[ManageEngine Endpoint Central web page](https://senseilizard.github.io/manageengine-endpoint-central-download/)** — standalone info page.
+- 🗂️ [More Security software](https://softgit.pro/category/security)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for ManageEngine Endpoint Central. Third-party software; all rights belong to the original authors.
